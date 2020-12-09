@@ -1,0 +1,15 @@
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\CadastroFacebook.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\CadastroFacebook.pdb
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\nunit.framework.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\WebDriver.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\nunit.framework.pdb
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\nunit.framework.xml
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\bin\Debug\WebDriver.xml
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\AcessoPrimeUp.csprojAssemblyReference.cache
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\AcessoPrimeUp.csproj.CoreCompileInputs.cache
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\AcessoPrimeUp.csproj.CopyComplete
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\CadastroFacebook.dll
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\CadastroFacebook.pdb

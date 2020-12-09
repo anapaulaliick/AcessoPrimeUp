@@ -1,0 +1,2 @@
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\CadastroFacebook.csprojAssemblyReference.cache
+C:\Users\APA018\Documents\Teste Facebook\CadastroFacebook\CadastroFacebook\obj\Debug\CadastroFacebook.csproj.CoreCompileInputs.cache
